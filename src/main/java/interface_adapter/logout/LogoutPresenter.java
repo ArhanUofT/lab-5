@@ -8,8 +8,6 @@ import interface_adapter.login.LoginViewModel;
 import use_case.logout.LogoutOutputBoundary;
 import use_case.logout.LogoutOutputData;
 
-import javax.swing.plaf.nimbus.State;
-
 /**
  * The Presenter for the Logout Use Case.
  */
